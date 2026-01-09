@@ -53,7 +53,7 @@ This project explored how **data-driven models** can:
 
 ## Team
 **Team Name:** Data Dribblers  
-**Team Members:** Rajdeep Kaur Sandhu, Sulav Regmi, Wanlin Cui
+**Team Members:** Saketh, Rajdeep Kaur Sandhu, Sulav Regmi, Wanlin Cui
 
 ---
 
